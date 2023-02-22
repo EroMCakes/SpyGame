@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="fresque" size="20.000000 11.250000" />
+    <ImageTarget name="carteRAM" size="20.000000 14.187643" />
+    <ImageTarget name="Carte_Marwa_Recto" size="20.000000 14.234528" />
+    <ImageTarget name="carte_Miniso_Recto" size="20.000000 14.234528" />
+    <ImageTarget name="carte_carrefour" size="20.000000 14.139111" />
+    <ImageTarget name="McKinsey_Logo" size="20.000000 20.000000" />
+    <ImageTarget name="Carte_Courir_Recto" size="20.000000 14.234528" />
+    <ImageTarget name="Carte_Starbucks_Recto" size="20.000000 14.234528" />
+    <ImageTarget name="carte_Carrefour_Recto" size="20.000000 14.234528" />
+    <ImageTarget name="X_Target" size="20.000000 26.666666" />
+    <ImageTarget name="A_Target" size="20.000000 26.666666" />
+    <ImageTarget name="R_Target" size="20.000000 26.666666" />
+    <ImageTarget name="B_Target" size="20.000000 26.666666" />
+    <ImageTarget name="O_Target" size="20.000000 26.666666" />
+    <ImageTarget name="C_Target" size="20.000000 26.666666" />
+    <ImageTarget name="new_targ" size="20.000000 13.333333" />
+    <ImageTarget name="Cesar_Target" size="20.000000 26.666666" />
+    <ImageTarget name="courir_test" size="20.000000 4.953704" />
+    <ImageTarget name="Journal_Target" size="20.000000 13.333333" />
+    <ImageTarget name="986_Target" size="20.000000 15.183333" />
+    <ImageTarget name="Four_Seasons_Target" size="20.000000 13.333333" />
+    <ImageTarget name="courir" size="20.000000 14.096774" />
+    <ImageTarget name="Miniso_Target" size="20.000000 28.375286" />
+    <ImageTarget name="Marwa_Target" size="20.000000 4.468713" />
+    <ImageTarget name="Starbucks_Target" size="20.000000 4.113377" />
+    <ImageTarget name="Carrefour_Target_2" size="20.000000 8.385417" />
+    <ImageTarget name="Carrefour_Target" size="20.000000 7.203667" />
+  </Tracking>
+</QCARConfig>
