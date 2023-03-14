@@ -22,7 +22,7 @@ public class SecretCodeHandler : MonoBehaviour
         //check code value and load next prefab
         if (firstLetter.text == "S" && secondLetter.text == "E" && thirdLetter.text == "C" && fourthLetter.text == "R" && fifthLetter.text == "E" && sixthLetter.text == "T")
         {
-            ViewController.LoadViewWithIndex(22);
+            ViewController.LoadViewWithIndex(21);
         }
         else
         {
@@ -42,7 +42,7 @@ public class SecretCodeHandler : MonoBehaviour
 
     public void BackButton()
     {
-        ViewController.LoadViewWithIndex(20);
+        ViewController.LoadViewWithIndex(19);
     }
 
 

@@ -2008,13 +2008,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Four_Seasons_Target
+  mTrackableName: clowns
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/Spy_Game_Targets.xml
-  mAspectRatio: 0.6666666
+  mAspectRatio: 0.71153843
   mImageTargetType: 0
   mWidth: 20
-  mHeight: 13.333332
+  mHeight: 14.230768
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -2050,7 +2050,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1491550267}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Four_Seasons_Target
+  mTargetName: clowns
   mDatasetName: Vuforia/Spy_Game_Targets.xml
   mCastedBehaviour: {fileID: 1491550267}
   mMeshFilter: {fileID: 0}
@@ -2316,7 +2316,6 @@ MonoBehaviour:
   - {fileID: 476311215737851012, guid: 939da802062d94629b614519ca5dcc7c, type: 3}
   - {fileID: 4521863725680879092, guid: fbdaab131b26a41f9ba773bedccdf4bd, type: 3}
   - {fileID: 4554850711200839406, guid: bad83a26d2c6a494fb83095675b40874, type: 3}
-  - {fileID: 8845476888321257793, guid: 3eba654e5a8d64b009963ba6fd266b76, type: 3}
   - {fileID: 2288969272456738098, guid: d87b7da65959c4a7f8db26f9e8d5d01f, type: 3}
   - {fileID: 6021186875916747226, guid: d6dc4d120df504c708db9af83e3b3928, type: 3}
   - {fileID: 856871368549704999, guid: b38fc1bddb5214b41a5ec625f95c314f, type: 3}
@@ -2342,7 +2341,6 @@ MonoBehaviour:
   - {fileID: 476311215737851012, guid: 00a64fbd46ea9439f9a098f33aa9bd5d, type: 3}
   - {fileID: 4521863725680879092, guid: 8e0de28a3bc0543e396fedd2d17b0a53, type: 3}
   - {fileID: 4554850711200839406, guid: 16a96cd93f39c434da5320529d8959ef, type: 3}
-  - {fileID: 8845476888321257793, guid: 0909ac445fc80478a92dfe0c0f5540bb, type: 3}
   - {fileID: 2288969272456738098, guid: b722feb12447b4ce8a976ea11752ee9c, type: 3}
   - {fileID: 6021186875916747226, guid: 6ba976c71a730497f870b4ef0065779c, type: 3}
   - {fileID: 856871368549704999, guid: 5ca24834e2b0947a2a126a3f788adade, type: 3}

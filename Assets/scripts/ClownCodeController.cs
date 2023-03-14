@@ -36,7 +36,7 @@ public class ClownCodeController : MonoBehaviour
     public void ValidateColorCode()
     {
         //check code value and load next prefab
-        if (greenDigit.text == "0" && redDigit.text == "5" && blueDigit.text == "3")
+        if (greenDigit.text == "7" && redDigit.text == "3" && blueDigit.text == "1")
         {
             ViewController.LoadViewWithIndex(7);
         }

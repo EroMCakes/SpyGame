@@ -23,7 +23,7 @@ public class CobraCodeHandler : MonoBehaviour
         //check code value and load next prefab
         if (firstLetter.text == "C" && secondLetter.text == "O" && thirdLetter.text == "B" && fourthLetter.text == "R" && fifthLetter.text == "A")
         {
-            ViewController.LoadViewWithIndex(11);
+            ViewController.LoadViewWithIndex(10);
         }
         else
         {
@@ -43,7 +43,7 @@ public class CobraCodeHandler : MonoBehaviour
 
     public void BackButton()
     {
-        ViewController.LoadViewWithIndex(9);
+        ViewController.LoadViewWithIndex(8);
     }
 
     // Start is called before the first frame update

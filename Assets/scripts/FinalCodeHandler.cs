@@ -29,7 +29,7 @@ public class FinalCodeHandler : MonoBehaviour
     {
         if (victim.text == "008" && position.text == "4")
         {
-            ViewController.LoadViewWithIndex(24);
+            ViewController.LoadViewWithIndex(23);
         } else
         {
             Reset();

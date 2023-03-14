@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="clowns" size="20.000000 14.230769" />
     <ImageTarget name="fresque" size="20.000000 11.250000" />
     <ImageTarget name="carteRAM" size="20.000000 14.187643" />
     <ImageTarget name="Carte_Marwa_Recto" size="20.000000 14.234528" />

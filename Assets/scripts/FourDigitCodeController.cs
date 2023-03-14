@@ -24,11 +24,11 @@ public class FourDigitCodeController : MonoBehaviour
         //check code value and load next prefab
         if (thousandsDigit.text =="5" && hundredsDigit.text == "2" && tensDigit.text == "6" && unitsDigit.text == "0" &&  panelController.step == 5)
         {
-            ViewController.LoadViewWithIndex(15);
+            ViewController.LoadViewWithIndex(14);
         }
         else if (thousandsDigit.text == "7" && hundredsDigit.text == "2" && tensDigit.text == "1" && unitsDigit.text == "9" && panelController.step == 7)
         {
-            ViewController.LoadViewWithIndex(19);
+            ViewController.LoadViewWithIndex(18);
         }
         else 
         {
@@ -50,10 +50,10 @@ public class FourDigitCodeController : MonoBehaviour
     {
         if (panelController.step == 5)
         {
-            ViewController.LoadViewWithIndex(13);
+            ViewController.LoadViewWithIndex(12);
         } else if (panelController.step == 7)
         {
-            ViewController.LoadViewWithIndex(17);
+            ViewController.LoadViewWithIndex(16);
         }
     }
 
